@@ -10,7 +10,7 @@ This project started as a tutorial-based application and was progressively impro
 
 This project was initially created by following a YouTube tutorial to practise core JavaScript concepts such as:
 
-- DOM manipulation  
+- DOM manipulation
 - Event handling  
 - Dynamic UI updates  
 - Basic application state (score, current question)  
